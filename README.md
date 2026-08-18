@@ -1,26 +1,32 @@
 # VOIDLAB Studio
 
-Premium web design & development agency.
+Independent web design and development studio focused on premium business websites, landing pages and conversion-oriented digital experiences.
 
-## What we do
+## Selected work
 
-- Modern business websites
-- Landing pages
-- UI/UX Design
-- SEO Optimization
-- Website Performance
-- Responsive Development
+### FORMA — Bespoke Furniture Studio
 
-## Tech Stack
+A bilingual concept website for a bespoke furniture studio. The project combines an editorial visual direction, project filtering, service presentation, a four-stage process and a focused measure-up enquiry form.
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Supabase
-- Vercel
+- Live demo: https://voidlabstudio.pl/demo/forma/
+- Case study: https://voidlabstudio.pl/en/work/forma/
+- Source: [`projects/forma`](projects/forma)
 
-## Mission
+### SHIFT Auto Studio
 
-Build websites that don't just look great—they generate leads, build trust, and help businesses grow.
+A bilingual automotive detailing concept focused on services, visual proof and direct enquiries.
+
+- Live demo: https://shift-auto-studio.vercel.app/en/
+- Case study: https://voidlabstudio.pl/en/work/shift-auto-studio/
+
+## Studio
+
+- Website: https://voidlabstudio.pl
+
+## Services
+
+- Strategy and information architecture
+- UX/UI design
+- Responsive front-end development
+- Technical SEO and performance
+- Launch and ongoing website care
